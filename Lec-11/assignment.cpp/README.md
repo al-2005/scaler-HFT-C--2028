@@ -1,5 +1,6 @@
 # SPSC Queue and Memory Pool Benchmark
-
+email: alisha.24bcs10636@sst.scaler.com
+roll_no: 10636
 ## Overview
 
 This project implements and benchmarks a single-producer, single-consumer (SPSC) queue in C++. The goal is to measure how many 64-byte objects can be transferred per second using different synchronization and memory-management approaches.
